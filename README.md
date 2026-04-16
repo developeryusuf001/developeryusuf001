@@ -1,4 +1,4 @@
-# Hi, I'm Yusuf 👋
+# Hi, I'm Mohammad Yusuf 👋
 
 Self-taught developer focused on full stack (MERN).
 Currently learning React and strengthening core JavaScript.
