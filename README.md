@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mohammad Yusuf 👋
 
-<!--
-**developeryusuf001/developeryusuf001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught developer focused on full stack (MERN).
+Currently learning React and strengthening core JavaScript.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML • CSS • JavaScript • React
+
+## ⚡ Current Focus
+
+* Writing clean, maintainable code
+* Understanding core fundamentals deeply
+* Building consistently with long-term growth in mind
+
+## 📈 Mindset
+
+> Stay consistent. Think long-term. Keep building.
+
+---
