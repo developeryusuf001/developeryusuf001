@@ -1,11 +1,14 @@
-# Hi, I'm Mohammad Yusuf 👋
+# Hi, I'm Yusuf 👋
 
 Self-taught developer focused on full stack (MERN).
 Currently learning React and strengthening core JavaScript.
 
 ## 🛠️ Tech Stack
 
-HTML • CSS • JavaScript • React
+**Frontend:** HTML5, CSS3, JavaScript, React
+**Backend:** Node.js (learning)
+**Database:** MySQL (learning)
+**Tools:** Git, GitHub, VS Code
 
 ## ⚡ Current Focus
 
