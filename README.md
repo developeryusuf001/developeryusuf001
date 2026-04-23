@@ -5,7 +5,7 @@ Currently learning React and strengthening core JavaScript.
 
 ## 🛠️ Tech Stack
 
-**Frontend:** HTML5, CSS3, JavaScript, React
+**Frontend:** HTML5, CSS3, JavaScript, React \n
 **Backend:** Node.js (learning)
 **Database:** MySQL (learning)
 **Tools:** Git, GitHub, VS Code
