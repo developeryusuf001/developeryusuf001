@@ -1,23 +1,80 @@
-# Hi, I'm Mohammad Yusuf 👋
+# 👋 Hi, I'm Mohammad Yusuf
 
-Self-taught developer focused on full stack (MERN).
-Currently learning React and strengthening core JavaScript.
+🎓 B.Tech Student | 💻 Full Stack Developer
+Focused on building strong fundamentals, clean projects, and long-term growth.
+
+---
+
+## 🚀 About Me
+
+* Currently exploring **JavaScript (React)** for frontend
+* Learning **Python (FastAPI / Django)** for backend
+* Building projects to understand **real-world system flow**
+* Interested in **AI/ML + Software Engineering intersection**
+
+---
+
+## 🧠 Current Focus
+
+* Data Structures & Algorithms (C++)
+* React ecosystem (hooks, routing, state management)
+* Backend development with Python
+* Writing clean, documented code
+
+---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** HTML5, CSS3, JavaScript, React \n
-**Backend:** Node.js (learning)
-**Database:** MySQL (learning)
-**Tools:** Git, GitHub, VS Code
+**Languages:**
 
-## ⚡ Current Focus
+* JavaScript
+* Python
+* C++
 
-* Writing clean, maintainable code
-* Understanding core fundamentals deeply
-* Building consistently with long-term growth in mind
+**Frontend:**
 
-## 📈 Mindset
+* React
+* HTML, CSS
 
-> Stay consistent. Think long-term. Keep building.
+**Backend:**
+
+* FastAPI / Flask / Django
+
+**Tools:**
+
+* Git & GitHub
+* Linux
+* VS Code
+
+---
+
+## 📂 Projects
+
+* Documenting all my semester learnings 📘
+* Building structured repositories for long-term reference
+* Working on full-stack applications
+
+---
+
+## 📈 Goals
+
+* Crack **GSoC**
+* Build strong **DSA + System Design** foundation
+* Contribute to **Open Source**
+* Prepare for **Masters (MS abroad)**
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/developeryusuf001
+* LinkedIn: (add later)
+
+---
+
+## ⚡ Philosophy
+
+> Consistency over intensity.
+> Build quietly. Let results speak.
 
 ---
