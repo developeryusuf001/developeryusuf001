@@ -68,7 +68,7 @@ Focused on building strong fundamentals, clean projects, and long-term growth.
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/developeryusuf001
-* LinkedIn: (add later)
+* LinkedIn: linkedin.com/in/developeryusuf001
 
 ---
 
