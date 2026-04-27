@@ -56,15 +56,6 @@ Focused on building strong fundamentals, clean projects, and long-term growth.
 
 ---
 
-## 📈 Goals
-
-* Crack **GSoC**
-* Build strong **DSA + System Design** foundation
-* Contribute to **Open Source**
-* Prepare for **Masters (MS abroad)**
-
----
-
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/developeryusuf001
