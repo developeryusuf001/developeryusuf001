@@ -1,71 +1,32 @@
-# 👋 Hi, I'm Mohammad Yusuf
+# Mohammad Yusuf
 
-🎓 B.Tech Student | 💻 Full Stack Developer
-Focused on building strong fundamentals, clean projects, and long-term growth.
-
----
-
-## 🚀 About Me
-
-* Currently exploring **JavaScript (React)** for frontend
-* Learning **Python (FastAPI / Django)** for backend
-* Building projects to understand **real-world system flow**
-* Interested in **AI/ML + Software Engineering intersection**
+B.Tech CSE • Semester 4 • Lucknow  
+Building real tools I actually use. Learning by shipping.
 
 ---
 
-## 🧠 Current Focus
+## What I actually know right now
 
-* Data Structures & Algorithms (C++)
-* React ecosystem (hooks, routing, state management)
-* Backend development with Python
-* Writing clean, documented code
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**
-
-* JavaScript
-* Python
-* C++
-
-**Frontend:**
-
-* React
-* HTML, CSS
-
-**Backend:**
-
-* FastAPI / Flask / Django
-
-**Tools:**
-
-* Git & GitHub
-* Linux
-* VS Code
+- HTML & CSS — comfortable
+- JavaScript — learning actively (DOM, events, localStorage)
+- C++ — DSA practice
+- Git & GitHub — daily use
 
 ---
 
-## 📂 Projects
+## What I'm learning next
 
-* Documenting all my semester learnings 📘
-* Building structured repositories for long-term reference
-* Working on full-stack applications
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/developeryusuf001
-* LinkedIn: https://www.linkedin.com/in/developeryusuf1/
+- JavaScript DOM & async (May 2026)
+- React fundamentals (May–June 2026)
+- Node.js + Express (Semester 5)
 
 ---
 
-## ⚡ Philosophy
+## Connect
 
-> Consistency over intensity.
+[LinkedIn](https://www.linkedin.com/in/developeryusuf1/) · 
+[X](https://x.com/itsyusuf75)
+
+---
+
 > Build quietly. Let results speak.
-
----
