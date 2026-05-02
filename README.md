@@ -5,7 +5,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=yusuf-in&style=flat-square&color=0e75b6&label=Profile+Views)
 
 # Mohammad Yusuf
-### Frontend Developer in Progress · B.Tech CSE · Lucknow
+### Full Stack Developer in Progress · B.Tech CSE · Lucknow
 
 *Building real things. Learning in public. Letting results speak.*
 
@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a **2nd-year CSE student** focused on becoming a solid frontend developer. I don't just follow tutorials — I build tools I actually need, ship them, and learn from the process.
+I'm a **2nd-year CSE student** focused on becoming a solid full stack developer. I don't just follow tutorials — I build tools I actually need, ship them, and learn from the process.
 
 - 🎯 **Currently:** Mastering JavaScript (DOM, async, events)
 - 🚀 **Next up:** React fundamentals → Node.js + Express
@@ -54,18 +54,6 @@ I'm a **2nd-year CSE student** focused on becoming a solid frontend developer. I
 | [⏱ study-timer](https://github.com/yusuf-in/study-timer) | Minimal timer with session tracking | JavaScript |
 | [🖥 frontend](https://github.com/yusuf-in/frontend) | JS fundamentals + React prep exercises | JavaScript |
 | [📋 job-application-tracker](https://github.com/yusuf-in/job-application-tracker) | Track job applications locally | HTML |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusuf-in&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-in&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 
